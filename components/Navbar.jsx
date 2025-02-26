@@ -102,7 +102,7 @@ const Nav = () => {
           className='flex items-center space-x-3 rtl:space-x-reverse'
         >
           <Image
-            src='/public/logos/logo.png'
+            src='/logos/logo.png'
             alt='Logo'
             width={60}
             height={60}

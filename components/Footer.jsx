@@ -10,12 +10,7 @@ const Footer = () => {
         <div className='sm:flex sm:justify-between mb-6'>
           <div className='w-full sm:w-2/5 mb-6 sm:mb-0 text-center sm:text-center lg:text-center'>
             <Link href='/' className='flex justify-center sm:justify-center '>
-              <Image
-                src='/public/logos/logo.png'
-                alt='Logo'
-                width={80}
-                height={80}
-              />
+              <Image src='/logos/logo.png' alt='Logo' width={80} height={80} />
             </Link>
             <p className='mt-4 text-center text-gray-400 sm:text-center lg:text-center'>
               International Hope School Bangladesh
